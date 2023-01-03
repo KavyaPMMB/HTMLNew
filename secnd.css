@@ -1,0 +1,18 @@
+div.a {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+div.c
+{
+    padding: 15px;
+  text-align: center;
+
+
+}
+div.a img {
+    width: 100%;
+    height: auto;
+}
+

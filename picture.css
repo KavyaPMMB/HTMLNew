@@ -1,0 +1,11 @@
+/* For width smaller than 400px: */
+body {
+    background-image: url('z1.jpg');
+  }
+  
+  /* For width 400px and larger: */
+  @media only screen and (min-width: 400px) {
+    body {
+      background-image: url('f1.jpg');
+    }
+  }

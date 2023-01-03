@@ -1,0 +1,63 @@
+.nav_menu
+{
+    display: flex;
+    width: 17%;
+    margin-left: 82%;
+    justify-content: space-between;
+    margin-top: 1%;
+    height: 35px;
+    padding: 5px;
+}
+.nav_menu img
+{
+    margin: top 5px;
+}
+a
+{
+    text-decoration: none;
+}
+.G
+{
+
+    width: 20%;
+    height: 80%;
+    padding: 30px;
+    margin-left: 30%;
+}
+div.G img
+{
+    height: 200px;
+    width: 400px;
+    
+}
+input[type=text]
+{
+    margin-left: 30%;
+    width: 30%;
+    height: 15%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    background-color: rgb(250, 243, 247);
+}
+button[type=button]
+{
+    margin-top: 5%;
+    display: inline;    
+    
+}
+.c
+{
+    padding-left: 40%;
+    justify-content: space-between;
+}
+.footer1
+{
+    display: flex;
+    margin-top: 10%;
+    background-color: rgb(167, 163, 163);
+}
+div.footer1 a
+{
+    padding: 1%;
+}

@@ -1,0 +1,86 @@
+.header
+{
+   background-color: rgb(34, 30, 30);
+   color: greenyellow; 
+   padding-bottom: 10px;
+   padding-left: 200px;
+   padding-top: 20px;
+}
+h2
+{
+    color: white;
+}
+.nav_menu
+{
+    background-color: rgb(34, 30, 30);
+    color: white;
+    overflow: hidden;
+}
+.nav_menu a:hover
+{
+    background-color: rgb(115, 173, 22);
+    
+}
+.nav_menu a
+{
+    padding: 14px 16px;
+    display: block;
+    float: right;
+    color: white;
+    text-decoration: none;
+    border: 2px;
+    border-radius: 10px;
+    width: 5%;
+    text-align: center;
+    margin-left: 25px;
+    margin-bottom: 20px;
+    background-color: rgb(54, 52, 52);
+    
+}
+.line
+{
+    width: 100%;
+    height: 9px;
+    background-color: rgb(32, 105, 9);
+}
+.image img
+{
+/*padding-left: 450px;*/
+display: block;
+margin-left: auto;
+margin-right: auto;
+border: 9px solid gray;
+
+}
+.welcome
+{
+    background-color: white;
+    color: black;
+    width: 80%;
+    height: auto;
+    padding-left: 450px;
+    text-align: justify;
+   
+}
+.aside
+{
+    padding: 50px;
+    padding-top: 10px;
+    width: 50%;
+    height: auto;
+    text-align: center;
+    padding-right: 300px;
+    
+    margin-right: 50px;
+    
+}
+.footer1
+{
+    padding: 50px;
+    width: 50%;
+    height: auto;
+    text-align: justify;
+    padding-right: 100px;
+    margin-right: 50px;
+    padding-left: 450px;
+}

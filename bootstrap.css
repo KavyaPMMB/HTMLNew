@@ -1,0 +1,11 @@
+.card
+{
+    padding: 20px;
+}
+.carousel-item
+{
+text-align: center;
+font-family: Verdana;
+background-color: #343d44;
+color: white;
+}

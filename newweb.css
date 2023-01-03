@@ -1,0 +1,140 @@
+.header
+{
+   background-color: rgb(34, 30, 30);
+   color: greenyellow; 
+   padding-bottom: 10px;
+   padding-left: 200px;
+   padding-top: 20px;
+}
+h2
+{
+    color: rgb(247, 240, 240);
+}
+h3
+{
+    color: black;
+}
+.nav_menu
+{
+    background-color: rgb(34, 30, 30);
+    color: white;
+    overflow: hidden;
+}
+.nav_menu a:hover
+{
+    background-color: rgb(115, 173, 22);
+    
+}
+.nav_menu a
+{
+    padding: 14px 16px;
+    display: block;
+    float: right;
+    color: white;
+    text-decoration: none;
+    border: 2px;
+    border-radius: 10px;
+    width: 5%;
+    text-align: center;
+    margin-left: 25px;
+    margin-bottom: 20px;
+    background-color: rgb(54, 52, 52);
+    
+}
+.line
+{
+    width: 100%;
+    height: 9px;
+    background-color: rgb(32, 105, 9);
+}
+.image img
+{
+/*padding-left: 450px;*/
+display: block;
+margin-left: auto;
+margin-right: auto;
+border: 9px solid gray;
+
+}
+.content
+{
+    height: 250px;
+    margin-top: 30px;
+    width: 70%;
+    margin-left: 209px;
+}
+.left-col{
+    width: 50%;
+    float: left;
+    margin-left: 400px;
+}
+.sec-cont{
+    background-color: grey;
+    
+    
+}
+.image1 img{
+    width: 99%;
+    height: 232px;
+    padding-top: 10px;
+    padding-left: 6px;
+}
+
+.para h1{
+    font-size: 28px;
+    margin-top: 21px;
+    font-weight: 100;
+
+}
+.para p{
+   font-size: 19px;
+    padding-top: 23px;
+    text-align: justify;
+    
+}
+.list{
+    margin-top: 33px;
+    list-style-position: inside;
+}
+.list h3{
+    font-size: 22px;
+    color: #28a8a8;
+}
+.list h6{
+    padding-top: 10px;
+    padding-bottom: 25px;
+    font-size: 16px;
+}
+.right-col{
+    float: left;
+    width: 24%;
+}
+.right-box{
+    height: 207px;
+    border: 2px solid rgb(53, 52, 52);
+    border-radius: 15px;
+    margin-left: 54px;
+    margin-top: 24px;
+    margin-right: 100px;
+    list-style-position: inside;
+}
+.right-box h2,h4,p,ul,li,a{
+    padding: 5px;
+}
+.right-box h4{
+    color: #28a8a8;
+}
+.footer1
+{
+    background-color: #28a8a8;
+    padding: 100px;
+    margin-top: 35%;
+    background-color:  rgb(34, 30, 30);
+    color: white;
+}
+.footer1 a
+{
+    color: aliceblue;
+    text-align: center;
+    border-left: 4px solid wheat;
+}

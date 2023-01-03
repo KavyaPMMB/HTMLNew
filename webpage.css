@@ -1,0 +1,29 @@
+div.a1
+{
+    background-color: grey;
+    color: red;
+    text-align: center;
+    text-shadow: 5px 3px green;
+    border: 3px solid blue;
+}
+div.a2
+{
+    background-repeat: no-repeat;
+    background-image:url('w1.jpg');
+    background-attachment:fixed ;
+    color: blue;
+    font-size: 25px;
+    text-align: justify;
+    letter-spacing: 3px;
+    word-spacing: 6px;
+    border-top-color:red ;
+    border-top-style:dashed ;
+    border-right-color:green ;
+    border-right-style:double ;
+    border-bottom-color: cyan;
+    border-bottom-style:dotted ;
+    border-left-color:orange ;
+    border-left-style:solid ;
+
+    
+}

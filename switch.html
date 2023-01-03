@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="text" id="myinput">
+    <button onclick="myfun()">Try it</button>
+    <p id="demo"></p>
+
+    <script>
+        function myfun()
+        {
+            var text;
+            var fruits=document.getElementById("myinput").value;
+            switch(fruits)
+            {
+                case "banana":
+                    text="banana is good";
+                    break;
+                case "orange":
+                    text="orange is good";
+                    break;
+                case "apple":
+                    text="apple is good";
+                    break;
+                case "mango":
+                    text="mango is good";
+                    break;
+                default:
+                        text="not bad";
+
+            }
+            document.getElementById("demo").innerHTML=text;
+
+        }
+        
+
+    </script>
+    
+</body>
+</html>

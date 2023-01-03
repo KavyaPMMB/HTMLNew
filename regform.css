@@ -1,0 +1,66 @@
+div.a1
+{
+    border: 3px solid black;
+    border-radius: 15px;
+    height: 50%;
+    width: 500px;
+    padding-left: 100px;
+    padding-top: 30px;
+    margin-left: 400px;
+    
+    background-color: darkgrey;
+}
+  
+input[type=text]
+{
+    background-color: antiquewhite;
+    border-radius: 15px;
+    text-align: justify;
+    
+}
+input[type=date]
+{
+    background-color: antiquewhite;
+    border-radius: 15px;
+    text-align: justify;
+}
+input[type=email]
+{
+    background-color: antiquewhite;
+    border-radius: 15px;
+    text-align: justify;
+}
+input[type=file]
+{
+    background-color: antiquewhite;
+    border-radius: 15px;
+}
+input[type=number]
+{
+    background-color: antiquewhite;
+    border-radius: 15px;
+}
+input[type=submit]
+{
+    background-color: wheat;
+    border-radius: 20px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    width: 200px;
+    background-color: dimgray;
+    color: black;
+
+}
+
+.a
+{
+
+    float: left;
+    width: 35%;
+}
+
+textarea
+{
+    border-radius: 15px;
+    background-color: antiquewhite;
+}

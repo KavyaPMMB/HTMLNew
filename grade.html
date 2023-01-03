@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <p id="demo"></p>
+    
+    <button onclick="grade()">Grade</button>
+
+    <script>
+        function grade()
+        {
+            var mark=90;
+            if(mark>90)
+            {
+                document.getElementById("demo").innerHTML="A grade";
+            }
+            else if(mark>=80 && mark>=70)
+            {
+                document.getElementById("demo").innerHTML="B Grade";
+            }
+            else if(mark>=60 && mark>=50)
+            {
+                document.getElementById("demo").innerHTML="C Grade";
+            }
+            else if(mark>=40 && mark>=30)
+            {
+                document.getElementById("demo").innerHTML="D Grade";
+            }
+    
+            else
+            {
+                document.getElementById("demo").innerHTML="failed";
+            }
+        }
+
+        </script>
+
+    
+</body>
+</html>    
+
+

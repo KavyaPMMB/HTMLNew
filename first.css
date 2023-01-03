@@ -1,0 +1,28 @@
+h1{
+    color: aquamarine;
+    text-align: center;
+    text-decoration: solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p
+{
+    background-color: azure;
+    font-size: small;
+    text-decoration: dashed;
+    padding: 50px;
+    margin: 40px;
+    
+
+}
+body
+{
+    background-image: url("k1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* background-size: cover; */
+}
+
+div{
+    padding: 20px;
+    margin: 30px;
+}

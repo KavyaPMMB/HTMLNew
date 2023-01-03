@@ -1,0 +1,30 @@
+.nav_menu
+{
+overflow: hidden;
+background-color: rgb(7, 4, 0);
+padding: 15px;
+}
+.nav_menu a 
+        {
+            float: right;
+            display: block;
+            color: rgb(238, 229, 229);
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        
+.a1
+{
+    background-image: url(kk.jpg);
+    background-repeat: no-repeat;
+    width: 83%;
+    height: 800px;
+    color: aliceblue;
+    padding-top: 10px;
+    font-family: Verdana;
+    font-weight: bold;
+    text-align: center;
+    padding: 150px;
+    
+}

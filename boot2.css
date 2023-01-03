@@ -1,0 +1,11 @@
+.body
+{
+    background-image: url(w3.jpg);
+}
+input[type=text]
+{
+    background-color: antiquewhite;
+    border-radius: 15px;
+    text-align: justify;
+    
+}
